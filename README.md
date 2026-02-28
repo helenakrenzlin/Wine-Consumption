@@ -76,5 +76,5 @@ The analysis integrates two primary data streams to create a unified "master" da
 
 ## 🔗 Links
 - **Data Source 1:** * [**Kaggle Wine Reviews Dataset**](https://www.kaggle.com/datasets/zynicide/wine-reviews) — *Primary source for 130k consumer reviews.*
-- **Data Source 2:** [**Wine APIs**] (https://sampleapis.com/api-list/wines)
+- **Data Source 2:** * [**Wine APIs**] (https://sampleapis.com/api-list/wines)
 - **Link to Presentation:** https://prezi.com/p/mzj917xxyccb/plan-de-marketing-global-para-bodegas/
