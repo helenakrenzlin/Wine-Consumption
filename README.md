@@ -67,7 +67,6 @@ The analysis integrates two primary data streams to create a unified "master" da
 
 ## 🚀 Further Questions & Next Steps
 
-- **Sentiment Analysis:** Further investigate the US review volume dominance. We plan to normalize these values to compare the "top-reviewed" European countries against US counterpart on a level playing field.
 - **Macro-Consumption Analysis:** Integrate global wine consumption data (per capita) to determine if high-consuming nations (like Portugal or France) are more "price-sensitive" or "quality-driven" compared to emerging markets.
 - **Vintage & Climate Impact:** Extract "Year" from the Title strings using Regex to analyze how aging and specific harvest years (vintages) correlate with both expert scores and market price.
 - **Characteristic Mapping (NLP):** Perform Natural Language Processing (NLP) on the raw review descriptions to extract "Characteristic Tags" (e.g., tannic, oaky, fruity, acidic). This will allow us to see which flavor profiles command the highest price premiums.
@@ -76,5 +75,5 @@ The analysis integrates two primary data streams to create a unified "master" da
 
 ## 🔗 Links
 - **Data Source 1:** * [**Kaggle Wine Reviews Dataset**](https://www.kaggle.com/datasets/zynicide/wine-reviews) — *Primary source for 130k consumer reviews.*
-- **Data Source 2:** * [**Wine APIs**] (https://sampleapis.com/api-list/wines)
-- **Link to Presentation:** https://prezi.com/p/mzj917xxyccb/plan-de-marketing-global-para-bodegas/
+- **Data Source 2:** [SampleAPIs Wine Documentation](https://sampleapis.com/api-list/wines)
+- **Presentation link:** [Global Marketing Plan Presentation](https://prezi.com/p/mzj917xxyccb/plan-de-marketing-global-para-bodegas/)
