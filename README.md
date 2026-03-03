@@ -11,7 +11,7 @@ This project aims to bridge the gap between **Expert Ratings** (sourced from pro
 The analysis integrates two primary data streams to create a unified "master" dataset:
 
 - **Primary Dataset (130k rows):** A comprehensive collection of wine reviews, including variety, province, and taster information.
-- **Secondary API Data (7k rows):** Enriched metadata fetched from professional wine endpoints (Red, White, Rosé, and Sparkling) containing expert ratings, review counts, and high-resolution image links.
+- **Secondary API Data (7k rows):** Enriched metadata fetched from a public wine API (Red, White, Rosé, and Sparkling) containing aggregated ratings, review counts, and imagery.
 - **Key Challenge:** Merging was performed using a **Fuzzy Logic** approach (Winery + Country) to resolve naming inconsistencies and character encoding differences between the two disparate sources.
 
 ---
